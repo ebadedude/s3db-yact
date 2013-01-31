@@ -1,14 +1,14 @@
-S3DB Connectivity
-===============
+S3DB-YACT (Yet Another Connectivity Tool)
+=========================================
 
-S3DB Connectivity is a browser module for interacting with [S3DB, the Simple and Sloppy Semantic Database](http://s3db.org).
+S3DB-YACT is a browser module for interacting with [S3DB](http://s3db.org). This is built on the work originally done by Alexander Grüneberg with [S3DB-Connectivity](https://github.com/agrueneberg/S3DB-Connectivity). **NOTE**: Because the APIs are different, S3DB-YACT is different from S3DB-Connectivity.
 
 
 Features
 --------
 
 * Login
-* [S3QL](http://s3ql.org/) queries
+* Prepared [S3QL](http://s3ql.org/) query functions.
 * Regular and cached SPARQL queries
 * Custom error handler
 * Debug mode
