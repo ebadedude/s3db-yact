@@ -20,9 +20,9 @@ Usage
 
 ### Public project (no login required)
 
-    <!-- S3DB Connectivity depends on jQuery. -->
+    <!-- S3DB-YACT depends on jQuery. -->
     <script src="jquery.js"></script>
-    <script src="s3db-connectivity.js"></script>
+    <script src="s3db-yact.js"></script>
     <script>
 
         (function () {
@@ -50,9 +50,9 @@ Usage
 
 ### Private project (login required - username)
 
-    <!-- S3DB Connectivity depends on jQuery. -->
+    <!-- S3DB-YACT depends on jQuery. -->
     <script src="jquery.js"></script>
-    <script src="s3db-connectivity.js"></script>
+    <script src="s3db-yact.js"></script>
     <script>
 
         (function () {
@@ -94,9 +94,9 @@ Usage
 
 ### Private project (login required - apikey)
 
-    <!-- S3DB Connectivity depends on jQuery. -->
+    <!-- S3DB-YACT depends on jQuery. -->
     <script src="jquery.js"></script>
-    <script src="s3db-connectivity.js"></script>
+    <script src="s3db-yact.js"></script>
     <script>
 
         (function () {
